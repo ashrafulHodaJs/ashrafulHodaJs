@@ -1,5 +1,5 @@
 # 🌌 Wandering Through Bits and Brushstrokes
-<a href="https://github.com/ashrafulHodaJs"><img src="https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif" width="100%" height="85%"></a>
+<a href="https://github.com/ashrafulHodaJs"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWp6YjNiNDZtdnoxdDl6MWlhMjhzMWF5b29scHA2djhlM3A5ejhheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LbBSU26sSRAE8/giphy.gif" width="100%" height="85%"></a>
 
 
 Hey, I'm Ashraful Hoda. What started as simple curiosity about web dev has turned into a deep dive into the depths of **low-level programming**, **UNIX**, and a fascination with **exploitation** (no pun intended). 🚀
