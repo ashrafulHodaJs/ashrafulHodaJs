@@ -1,5 +1,5 @@
-<a href="https://github.com/ashrafulHodaJs"><img src="https://raw.githubusercontent.com/ashrafulHodaJs/main/refs/heads/main/a.svg" width="100%" height="100%"></a>
-# 👾 Welcome to My Coding Odyssey!
+# 🌌 Wandering Through Bits and Brushstrokes
+<a href="https://github.com/ashrafulHodaJs"><img src="https://https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif" width="100%" height="85%"></a>
 
 Hey, I'm Ashraful Hoda. What started as simple curiosity about web dev has turned into a deep dive into the depths of **low-level programming**, **UNIX**, and a fascination with **exploitation** (no pun intended). 🚀
 
@@ -48,6 +48,10 @@ I haven't completely given up on **frontend**, but let's just say I haven't gone
 I’m always on the lookout for new challenges and ways to grow. The deeper I go into **systems programming** and **exploitation**, the more excited I get about the endless possibilities. If you’re into **reverse engineering**, **kernel hacking**, or just want to chat about **low-level systems**, let’s connect!
 
 > **Remember**: It’s not about the flashy front-end, it’s about what’s happening behind the scenes. That’s where the magic lies. 🔮
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulHodaJs&layout=compact&theme=radical)
+
+
 
 
 
